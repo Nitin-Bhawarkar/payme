@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "reactfirebasewebsite-b46ea",
+    "staging": "reactfirebasewebsite-b46ea"
+  },
+  "targets": {},
+  "etags": {}
+}
